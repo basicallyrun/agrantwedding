@@ -54,7 +54,7 @@ margin: auto;
 }
 
 .title{
-position: static;
+position: absolute;
 top: 18%;
 left: 35%;
 transform: translate(-50%,-50%);
