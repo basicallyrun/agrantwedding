@@ -115,7 +115,7 @@ text-align: left;
 
 .WishingWell{
 position: absolute;
-top: 300%;
+top: 400%;
 left: 33%;
 transform: translate(-50%,-50%);
 }
@@ -128,7 +128,7 @@ text-align: left;
 
 .Donate{
 position: absolute;
-top: 550%;
+top:600%;
 left: 35%;
 transform: translate(-50%,-50%);
 }
