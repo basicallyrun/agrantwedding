@@ -49,7 +49,7 @@ color: #000;
 }
 
 .main{
-max-width: 850px;
+max-width: 500px;
 margin: auto;
 }
 
@@ -67,7 +67,7 @@ text-align: left;
 }
 
 .Para1{
-position: absolute;
+position: fixed;
 top: 27.5%;
 left: 35%;
 transform: translate(-50%,-50%);
@@ -101,7 +101,7 @@ color: #000;
 }
 
 .OurStory{
-position: absolute;
+position: fixed;
 top: 39%;
 left: 35%;
 transform: translate(-50%,-50%);
@@ -114,7 +114,7 @@ text-align: left;
 }
 
 .WishingWell{
-position: absolute;
+position: fixed;
 top: 400%;
 left: 33%;
 transform: translate(-50%,-50%);
@@ -134,7 +134,7 @@ transform: translate(-50%,-50%);
 }
 
 .Info{
-position: absolute;
+position: fixed;
 top: 38%;
 left: 35%;
 transform: translate(-50%,-50%);
