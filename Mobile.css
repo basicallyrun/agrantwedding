@@ -5,7 +5,7 @@ font-family: courier new;
 font-style: oblique;
 }
 
-@media (max-width: 500px) {
+@media screen and  (max-width: 500px) {
 
 header{
 background-image: url("https://i.imgur.com/rh3B40B.jpg?1");
