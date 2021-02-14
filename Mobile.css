@@ -154,19 +154,11 @@ left: 40%;
 transform: translate(-50%,-50%);
 }
   
-.Info p5{
+.MInfo p5{
 color: #fff;
 font-size: 1em;
 text-align: left;
 }
-  
-.iframe1{
-position: absolute;
-top: 100%;
-left: 40%;
-transform: translate(-50%,-50%);
-}
-  
   
 }
 
