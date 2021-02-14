@@ -17,7 +17,7 @@ background-position: center;
 body {
 font-size: 15px;
 height: auto;
-display: flex;
+display:flex;
 }
 
 ul{
@@ -65,7 +65,7 @@ transform: translate(-50%,-50%);
 .title h1{
 color: #fff;
 font-size: 2em;
-display: flex;
+display:flex;
 }
 
 .Para1{
@@ -78,7 +78,7 @@ transform: translate(-50%,-50%);
 .Para1 p1{
 color: #fff;
 font-size: 1em;
-display: flex;
+display:flex;
 }
 
 .button{ 
@@ -112,7 +112,7 @@ transform: translate(-50%,-50%);
 .OurStory p2{
 color: #fff;
 font-size: 1em;
-display: flex;
+display:flex;
 }
 
 .WishingWell{
@@ -125,7 +125,7 @@ transform: translate(-50%,-50%);
 .WishingWell p3{
 color: #fff;
 font-size: 1em;
-display: flex;
+display:flex;
 }
 
 .Donate{
@@ -145,7 +145,7 @@ transform: translate(-50%,-50%);
 .Info p4{
 color: #fff;
 font-size: 1em;
-display: flex;
+display:flex;
 }
 
 .iframe{
@@ -165,7 +165,7 @@ transform: translate(-50%,-50%);
 .MInfo p5{
 color: #fff;
 font-size: 1em;
-display: flex;
+display:flex;
 }
  
 }
