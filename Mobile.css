@@ -103,7 +103,7 @@ color: #000;
 
 .OurStory{
 position: fixed;
-top: 40%;
+top: 37%;
 left: 35%;
 transform: translate(-50%,-50%);
 }
@@ -116,7 +116,7 @@ text-align: left;
 
 .WishingWell{
 position: fixed;
-top: 248%;
+top: 270%;
 left: 33%;
 transform: translate(-50%,-50%);
 }
@@ -136,7 +136,7 @@ transform: translate(-50%,-50%);
 
 .Info{
 position: absolute;
-top: 40%;
+top: 30%;
 left: 35%;
 transform: translate(-50%,-50%);
 }
