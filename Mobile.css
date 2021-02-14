@@ -52,6 +52,9 @@ color: #000;
 .main{
 max-width: 500px;
 margin: auto;
+  width: 75%;
+  float: left;
+}
 }
 
 .title{
