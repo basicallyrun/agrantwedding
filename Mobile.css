@@ -149,14 +149,14 @@ text-align: left;
 
 .iframe{
 position: absolute;
-top: 50%;
+top: 55.5%;
 left: 40%;
 transform: translate(-50%,-50%);
 }
 
 .MInfo{
 position: fixed;
-top: 110%;
+top: 130%;
 left: 35%;
 transform: translate(-50%,-50%);
 }
