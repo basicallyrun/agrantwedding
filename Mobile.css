@@ -9,7 +9,7 @@ font-style: oblique;
 
 header{
 background-image: url("https://i.imgur.com/rh3B40B.jpg?1");
-height: auto;
+height: 100%;
 background-size: cover;
 background-position: center;
 }
